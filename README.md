@@ -8,7 +8,7 @@
 </div>
 <div width = 50%>
 <p>
-  <!--<img src="https://img.shields.io/github/last-commit/classychizzy/classychizzy?color=blue&label=last%20updated&style=flat" /> -->
+  <img src="https://img.shields.io/github/last-commit/michoaddy/michoaddy?color=blue&label=last%20updated&style=flat" />
 </p>
 
 ### Getting started

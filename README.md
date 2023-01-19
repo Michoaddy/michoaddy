@@ -1,7 +1,7 @@
 <Section>
 <h1> Hi there i'm Ayoola Ademola :wave: </h1>
 
-<h2> A full-stack-software-developer from Ibadan, Nigeria though I live in Lagos:smile: </h2>
+<h2> A full-stack-software-developer from Ibadan, Nigeria. I live in Lagos though:smile: </h2>
 
 <div width= 50%>
 <img align="right" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="400"/>

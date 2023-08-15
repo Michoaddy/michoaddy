@@ -17,6 +17,26 @@
 - An_inquisitive-developer: Ask me anything about C, web-development, python, mySQL, AWS,Microsoft-Azure,GCP, PostgreSQL, javascript
 - ⚡ Fun fact: I love football, love to travel and see what the world looks like on the other side of Atlantic.
 - 👯 I’m looking to collaborate on any project i can get my hands on...
+-  And If you ever feel like collaborating, contributing, or working together (because isn't that what it's all about?), here are few more things about me and my professional background:
+
+<!-- ## Below are some of my recent projects:
+
+- Hosting your Resume in the Cloud. [Link](https://github.com/ryan-almeida/resumewebsite)
+- Building a Serverless Web Application. [Link](https://github.com/ryan-almeida/wildrydes-site)
+- Creating your own VPC and 3 Tier Application. [Link](https://github.com/ryan-almeida/wordpress-site)
+- Building a Web Application through Docker, and learning Containerization. [Link](https://github.com/ryan-almeida/docker-webapp)
+- Deploying a Web Application through Terraform and learning Infrastrucure as Code. [Link](https://github.com/ryan-almeida/terraform-project)
+- and much more to come! -->
+
+## Knowledgeable in: 
+- ☁️ AWS
+- 💠 Git/GitHub
+- 🐧 Linux, BASH
+- 🐍 Python
+- 🏗 Terraform
+- ∞ CI/CD pipelines
+- 🐳 Docker
+- JIRA/Confluence
 
 <div id="badges" align="bottom">
 <a href="https://www.linkedin.com/in/ademola-ayoola-bab26b14b/" target=”_blank”>
